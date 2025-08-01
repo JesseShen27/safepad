@@ -1,6 +1,24 @@
 # SafePad
 
+This is a prototype.
+
+These are images of TKinter and WebApp versions.
+
+
+
 SafePad is a secure, AI-assisted password manager built with Python and Tkinter. It allows users to store, view, and retrieve encrypted login credentials entirely offline — with optional natural language help from a local AI model (Ollama).
+
+Tkinter:
+
+<img width="2150" height="1254" alt="image" src="https://github.com/user-attachments/assets/1e52a9ac-62db-465b-8a73-a6047930500b" />
+
+WebApp:
+
+<img width="2812" height="1464" alt="image" src="https://github.com/user-attachments/assets/f4dbc5f5-9df9-439c-b37b-fc21d34c1e1f" />
+
+<img width="2834" height="1464" alt="image" src="https://github.com/user-attachments/assets/b9ea6618-b716-495d-9070-35e29e2f9cb9" />
+
+<img width="2788" height="1400" alt="image" src="https://github.com/user-attachments/assets/3ef0d4ae-3314-4883-8800-c27fcbaa1fd7" />
 
 ---
 
